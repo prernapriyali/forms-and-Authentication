@@ -43,7 +43,7 @@ The features of this project are listed as below:
 
 Follow along the steps below to get a copy at your local machine.
 
-- Navigate to the directory where you want this project to live and then clone it `https://github.com/prernapriyali/forms-and-Authentication`
+- Navigate to the directory where you want this project to live and then clone it `https://github.com/prernapriyali/forms-and-Authentication.git`
 - Navigate to the `Forms-and-Authentication` directory
 - install the gem package with `bundle install`
 - Migrate the database on your local machine `rails db:migrate`
@@ -99,7 +99,7 @@ If you intend to download the project, you will need to have Ruby already instal
 
 Follow along the steps below to get a copy at your local machine.
 
-- Navigate to the directory where you want this project to live and then clone it `git clone https://github.com/sneeu-leeu/forms-and-Authentication.git`
+- Navigate to the directory where you want this project to live and then clone it `https://github.com/prernapriyali/forms-and-Authentication.git`
 - Navigate to the `Forms-and-Authentication` directory
 - install the gem package with `bundle install`
 - Migrate the database on your local machine `rails db:migrate`
